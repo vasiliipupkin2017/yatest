@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Какбы новости</title>
+    <link>https://vasiliipupkin2017.github.com/internet.rss</link>
+    <description>
+        <script>alert(document.domain);</script>
+    </description>
+    <image>
+      <url>https://vasiliipupkin2017.github.com/icon.jpg</url>
+      <link>https://vasiliipupkin2017.github.com/</link>
+      <title>Тут нет никаких новостей</title>
+    </image>
+    <lastBuildDate>09 Aug 2017 20:56:35 +0300</lastBuildDate>
+    <item>
+      <title>Проверка ссылки на новость</title>
+      <link>javascript:alert(document.domain)</link>
+      <description>Проверка ссылки на новость</description>
+      <pubDate>09 Aug 2017 16:04:48 +0300</pubDate>
+      <guid>https://vasiliipupkin2017.github.com/</guid>
+    </item>
+    <item>
+      <title>Проверка тела новости</title>
+      <link>https://vasiliipupkin2017.github.com/</link>
+      <description>
+          <![CDATA[
+          <a href="javascript:alert(document.domain)">Подозрительная ссылка</a>
+        ]]> 
+          </description>
+      <pubDate>09 Aug 2017 00:57:00 +0300</pubDate>
+      <guid>https://vasiliipupkin2017.github.com/</guid>
+    </item>
+    <item>
+      <title>Спешите видеть, скрипт в теле новости!</title>
+      <link>https://vasiliipupkin2017.github.com/</link>
+      <description>
+          <![CDATA[
+          Где-то там:
+          <script>alert('Скрипт в теле новости сработал');</script>
+          ]]> 
+          </description>
+      <pubDate>09 Aug 2017 13:40:55 +0300</pubDate>
+      <guid>https://vasiliipupkin2017.github.com/</guid>
+    </item>
+  </channel>
+</rss>
