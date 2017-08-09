@@ -20,7 +20,7 @@
       <guid>https://vasiliipupkin2017.github.io/yatest/</guid>
     </item>
     <item>
-      <title>Проверка тела новости</title>
+      <title>Проверка вариаций</title>
       <link>https://vasiliipupkin2017.github.io/yatest/</link>
       <description>
           <![CDATA[
@@ -49,7 +49,7 @@
         <guid isPermaLink="false">javascript:alert(document.domain)</guid>
         <title>Новость с картинкой</title>
         <link>javascript:alert(document.domain)</link>
-        <pubDate>Mon, 09 Feb 2009 03:03:21 +0400</pubDate>
+        <pubDate>09 Aug 2017 00:57:00 +0300</pubDate>
         <description>Картинки!</description>
         <category>Категория картинок</category>
         <author>Автор новости</author>
